@@ -1,0 +1,7 @@
+﻿CREATE TABLE VegetablesAndFruits (
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    Name TEXT NOT NULL,
+    Type TEXT NOT NULL
+    Color TEXT NOT NULL,
+    Calories INTEGER NOT NULL
+);
